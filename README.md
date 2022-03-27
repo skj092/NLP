@@ -24,6 +24,7 @@ NLP is a field of linguistics and machine learning focused on understanding ever
     * RNN implementation 
 
 2. LSTM
+3. GRU
 
 # Unit 3
 
@@ -57,3 +58,13 @@ NLP is a field of linguistics and machine learning focused on understanding ever
     Serializatin
     Training 
     Language Data
+    
+ # Unit 5
+ 
+ ## Language Model
+   
+   Character Level Language Model 
+ 
+ ## Text Classification
+ 
+ ## Language Translation
