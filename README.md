@@ -62,8 +62,6 @@ NLP is a field of linguistics and machine learning focused on understanding ever
  # Unit 5
  
  ## Language Model
-   
-   Character Level Language Model 
  
  ## Text Classification
  
